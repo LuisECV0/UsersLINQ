@@ -1,0 +1,7 @@
+C:\Users\luisc\source\repos\UsersLINQ\UsersLINQ\bin\Debug\UsersLINQ.exe.config
+C:\Users\luisc\source\repos\UsersLINQ\UsersLINQ\bin\Debug\UsersLINQ.exe
+C:\Users\luisc\source\repos\UsersLINQ\UsersLINQ\bin\Debug\UsersLINQ.pdb
+C:\Users\luisc\source\repos\UsersLINQ\UsersLINQ\obj\Debug\UsersLINQ.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\UsersLINQ\UsersLINQ\obj\Debug\UsersLINQ.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\UsersLINQ\UsersLINQ\obj\Debug\UsersLINQ.exe
+C:\Users\luisc\source\repos\UsersLINQ\UsersLINQ\obj\Debug\UsersLINQ.pdb
